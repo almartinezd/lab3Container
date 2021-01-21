@@ -1,0 +1,33 @@
+Tiempo de ejecución (Tamaño 13)
+
+Python
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	1m40,618s
+user	1m40,459s
+sys	0m0,004s
+
+C++
+
+real	0m1,452s
+user	0m0,290s
+sys	0m0,058s
+
+Tiempo de ejecución (Tamaño 14)
+
+Python
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	6m31,005s
+user	6m30,432s
+sys	0m0,005s
+
+C++
+
+real	0m0,342s
+user	0m0,299s
+sys	0m0,041s
