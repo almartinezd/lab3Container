@@ -31,3 +31,43 @@ C++
 real	0m0,342s
 user	0m0,299s
 sys	0m0,041s
+
+
+-----------------Singularity---------------
+
+Cargamos el módulo singularity
+Cargamos un shell
+Llamamos al fichero submit_eval_nativa.sh
+Tiempo de ejecución (Tamaño 13)
+
+Python
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	1m42,524s
+user	1m42,372s
+sys	0m0,002s
+
+C++
+
+real	0m0,341s
+user	0m0,293s
+sys	0m0,046s
+
+Tiempo de ejecución (Tamaño 14)
+
+Python
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	6m43,390s
+user	6m42,803s
+sys	0m0,008s
+
+C++
+
+real	0m0,343s
+user	0m0,302s
+sys	0m0,040s
